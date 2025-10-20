@@ -50,5 +50,7 @@ Thumbs.db
 *.pt
 
 # Datasets
-/football-nalaysis-detection-1/
+/training/football-nalaysis-detection-1/
 /runs
+*__pycahce__*
+*.pyc
